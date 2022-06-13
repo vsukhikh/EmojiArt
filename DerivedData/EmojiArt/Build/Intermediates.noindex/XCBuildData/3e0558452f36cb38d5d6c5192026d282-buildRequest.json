@@ -1,0 +1,54 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "877e5c0413c5e959c44692e018cddf91b5866a58edfce2a72b45ed3049421b4f"
+    },
+    {
+      "guid" : "877e5c0413c5e959c44692e018cddf91320a3be73db76f38cb196416ca36f668"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData/EmojiArt/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData/EmojiArt/Build/Products",
+      "derivedDataPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData/EmojiArt/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData/EmojiArt/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/vladimirsuhih/Documents/Projects/Swift Projects/EmojiArt/DerivedData/EmojiArt/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

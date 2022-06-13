@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>164F783A-DEC4-4957-9BFB-9DD1509143D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>164F783A-DEC4-4957-9BFB-9DD1509143D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>EmojiArt-dyibpprcnvmwtdfsfjijfkdsmsvh</string>
+			<key>timeStartedRecording</key>
+			<real>658914479.82052302</real>
+			<key>timeStoppedRecording</key>
+			<real>658914482.63993299</real>
+			<key>title</key>
+			<string>Build target EmojiArt</string>
+			<key>uniqueIdentifier</key>
+			<string>164F783A-DEC4-4957-9BFB-9DD1509143D5</string>
+		</dict>
+		<key>398983DC-5C75-4171-901D-75F6D0674D95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>398983DC-5C75-4171-901D-75F6D0674D95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>EmojiArt_(macOS)-dyibpprcnvmwtdfsfjijfkdsmsvh</string>
+			<key>timeStartedRecording</key>
+			<real>658917452.99191499</real>
+			<key>timeStoppedRecording</key>
+			<real>658917453.00773799</real>
+			<key>title</key>
+			<string>Build target EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>398983DC-5C75-4171-901D-75F6D0674D95</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

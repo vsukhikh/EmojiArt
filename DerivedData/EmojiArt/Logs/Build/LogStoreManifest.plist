@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05B8C255-E168-40D7-9183-1FF2E3043187</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05B8C255-E168-40D7-9183-1FF2E3043187.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917452.96849501</real>
+			<key>timeStoppedRecording</key>
+			<real>658917453.01548398</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>05B8C255-E168-40D7-9183-1FF2E3043187</string>
+		</dict>
+		<key>154B1B5D-E151-4602-93F5-EFE56D85E763</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>154B1B5D-E151-4602-93F5-EFE56D85E763.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658916872.21617103</real>
+			<key>timeStoppedRecording</key>
+			<real>658916872.261289</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>154B1B5D-E151-4602-93F5-EFE56D85E763</string>
+		</dict>
+		<key>2AA82771-E05C-4B56-8875-FC9AFA691A49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AA82771-E05C-4B56-8875-FC9AFA691A49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917200.41316402</real>
+			<key>timeStoppedRecording</key>
+			<real>658917200.47351801</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>2AA82771-E05C-4B56-8875-FC9AFA691A49</string>
+		</dict>
+		<key>50BBBF54-523B-431D-997C-EDCDF968D92B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50BBBF54-523B-431D-997C-EDCDF968D92B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658916882.97636795</real>
+			<key>timeStoppedRecording</key>
+			<real>658916883.02063799</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>50BBBF54-523B-431D-997C-EDCDF968D92B</string>
+		</dict>
+		<key>5E090E1F-462B-45C8-9882-F3F2DE082471</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E090E1F-462B-45C8-9882-F3F2DE082471.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917451.58393896</real>
+			<key>timeStoppedRecording</key>
+			<real>658917451.82594097</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>5E090E1F-462B-45C8-9882-F3F2DE082471</string>
+		</dict>
+		<key>7DEFEA15-EF12-4C55-81DC-E58C6B7C09F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DEFEA15-EF12-4C55-81DC-E58C6B7C09F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917201.73428094</real>
+			<key>timeStoppedRecording</key>
+			<real>658917201.79445601</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>7DEFEA15-EF12-4C55-81DC-E58C6B7C09F4</string>
+		</dict>
+		<key>A66976A8-5125-4F1F-A10D-01AD05B448D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A66976A8-5125-4F1F-A10D-01AD05B448D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658916870.97226906</real>
+			<key>timeStoppedRecording</key>
+			<real>658916871.49534297</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>A66976A8-5125-4F1F-A10D-01AD05B448D1</string>
+		</dict>
+		<key>BABB3AA2-9A51-439E-B0C2-17A4A1826AD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BABB3AA2-9A51-439E-B0C2-17A4A1826AD9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917292.06907403</real>
+			<key>timeStoppedRecording</key>
+			<real>658917292.24990499</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>BABB3AA2-9A51-439E-B0C2-17A4A1826AD9</string>
+		</dict>
+		<key>C72A9466-2D22-4059-BE7F-1A2971864921</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C72A9466-2D22-4059-BE7F-1A2971864921.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658916749.84645998</real>
+			<key>timeStoppedRecording</key>
+			<real>658916749.91457999</real>
+			<key>title</key>
+			<string>Build EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>C72A9466-2D22-4059-BE7F-1A2971864921</string>
+		</dict>
+		<key>C7AC7E99-6886-47F7-874F-1AE6591DF257</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7AC7E99-6886-47F7-874F-1AE6591DF257.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EmojiArt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EmojiArt (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean EmojiArt (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>658917282.17301905</real>
+			<key>timeStoppedRecording</key>
+			<real>658917282.49677801</real>
+			<key>title</key>
+			<string>Clean EmojiArt (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>C7AC7E99-6886-47F7-874F-1AE6591DF257</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

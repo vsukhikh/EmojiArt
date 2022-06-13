@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+EmojiArt (iOS) in EmojiArt
+EmojiArt (macOS) in EmojiArt
